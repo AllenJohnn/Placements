@@ -1,3 +1,6 @@
+# Heading
+## heading 2
+
 time complexity for for loop in python
 in short, if no. of loops increase, time complexity increases
 
