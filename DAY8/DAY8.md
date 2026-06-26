@@ -35,3 +35,7 @@ fun(1-1)
 fun(0)
 0==0 x
 return
+
+
+STACK
+LIFO
